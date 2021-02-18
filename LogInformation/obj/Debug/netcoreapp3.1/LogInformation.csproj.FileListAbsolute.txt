@@ -1,0 +1,12 @@
+C:\Users\www\Desktop\STEP_lessons\.NET core\Экзамен\Logger\LogInformation\bin\Debug\netcoreapp3.1\LogInformation.deps.json
+C:\Users\www\Desktop\STEP_lessons\.NET core\Экзамен\Logger\LogInformation\bin\Debug\netcoreapp3.1\LogInformation.dll
+C:\Users\www\Desktop\STEP_lessons\.NET core\Экзамен\Logger\LogInformation\bin\Debug\netcoreapp3.1\LogInformation.pdb
+C:\Users\www\Desktop\STEP_lessons\.NET core\Экзамен\Logger\LogInformation\obj\Debug\netcoreapp3.1\LogInformation.csprojAssemblyReference.cache
+C:\Users\www\Desktop\STEP_lessons\.NET core\Экзамен\Logger\LogInformation\obj\Debug\netcoreapp3.1\LogInformation.csproj.CoreCompileInputs.cache
+C:\Users\www\Desktop\STEP_lessons\.NET core\Экзамен\Logger\LogInformation\obj\Debug\netcoreapp3.1\LogInformation.AssemblyInfoInputs.cache
+C:\Users\www\Desktop\STEP_lessons\.NET core\Экзамен\Logger\LogInformation\obj\Debug\netcoreapp3.1\LogInformation.AssemblyInfo.cs
+C:\Users\www\Desktop\STEP_lessons\.NET core\Экзамен\Logger\LogInformation\obj\Debug\netcoreapp3.1\LogInformation.dll
+C:\Users\www\Desktop\STEP_lessons\.NET core\Экзамен\Logger\LogInformation\obj\Debug\netcoreapp3.1\LogInformation.pdb
+C:\Users\www\Desktop\STEP_lessons\.NET core\Экзамен\Logger\LogInformation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\www\Desktop\STEP_lessons\.NET core\Экзамен\Logger\LogInformation\bin\Debug\netcoreapp3.1\Newtonsoft.Json.xml
+C:\Users\www\Desktop\STEP_lessons\.NET core\Экзамен\Logger\LogInformation\obj\Debug\netcoreapp3.1\LogInformation.csproj.CopyComplete
